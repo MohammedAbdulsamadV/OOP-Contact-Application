@@ -1,0 +1,14 @@
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\bin\Debug\net6.0\Contact Management Application.exe
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\bin\Debug\net6.0\Contact Management Application.deps.json
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\bin\Debug\net6.0\Contact Management Application.runtimeconfig.json
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\bin\Debug\net6.0\Contact Management Application.dll
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\bin\Debug\net6.0\Contact Management Application.pdb
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.AssemblyInfoInputs.cache
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.AssemblyInfo.cs
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.csproj.CoreCompileInputs.cache
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.dll
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\refint\Contact Management Application.dll
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.pdb
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\Contact Management Application.genruntimeconfig.cache
+C:\Users\Abd Elsamad\OOP_Projects\Contact Management Application\obj\Debug\net6.0\ref\Contact Management Application.dll
